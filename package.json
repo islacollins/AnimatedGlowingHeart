@@ -1,0 +1,26 @@
+{
+"name": "animatedglowingheartqfa",
+"version": "1.0.0",
+"description": "This repository contains a JavaScript animation that creates a glowing heart shape effect using HTML canvas. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/islacollins/AnimatedGlowingHeart.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "islacollins",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
